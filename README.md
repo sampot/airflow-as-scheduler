@@ -1,4 +1,4 @@
-# airflow-scheduler
+# Airflow as Scheduler
 
 A docker-compose file demostrates how to use Airflow scheduler as a cron-like service.
 
